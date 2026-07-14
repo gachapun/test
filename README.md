@@ -9,8 +9,8 @@
 <br>
 
 
-&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" />&nbsp;&nbsp;
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="70" />&nbsp;&nbsp;
 
 &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery92/9494afc0.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp; $$\color{#828282}{\textsf{view on pc!}}$$
 
