@@ -10,13 +10,13 @@
 
 &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery92/9494afc0.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp; $$\color{#595959}{\textsf{best viewed in pc!}}$$
 
-
+&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=starfish+collected&abbreviated=true&style=for-the-badge" alt="views" width="170" />&nbsp;&nbsp;
     
-<div align="center">       <br> <br>
-<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=starfish+collected&abbreviated=true&style=for-the-badge" alt="views" width="170" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />
-    <br> 
-    </div>
+
+ <br> 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4985&pause=1000&color=57D8F7&center=true&width=435&lines=%22+Do+you+know+what+kind+of+fish+gets+fan-mail%3F+%22" alt="Typing SVG" /></a></div>
 <div align="center">
   <img align="center"><img src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" alt="ok" width="40%" />  </p>
     </div>
@@ -134,7 +134,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 ---
 
   <div align="right">
-        <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="50" alt="atabook" /></a>
+        <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="55" alt="atabook" /></a>
       </div>  
 
 
