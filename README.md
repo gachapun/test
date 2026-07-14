@@ -68,7 +68,7 @@ JUST TALK TO ME! no bites! just be aware i might be offtab so whisper, just in c
 <div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="500" valign="top">
+<td width="450" valign="top">
 dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fear and hunger, murder drones, tadc, resident evil, dol, project hail mary, iron lung, sonic, final space, inside job, splatoon, pokemon, starters, zelda, kirby, league of legends</p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="500" valign="top">
+<td width="450" valign="top">
           
  * im an adult, *please keep that in mind!*
  * i dunno much about any controversy in this game so keep that in mind just incase im seen interacting with someone that has a bad history
@@ -119,7 +119,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="500" valign="top">
+<td width="450" valign="top">
     
  * if you treat people's ignorance as a reason to ridicule them instead of an opportunity to educate them calmly
  * assholes in general, i dislike public harassing 
