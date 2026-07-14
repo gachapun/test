@@ -88,7 +88,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
           <b>byi</b></summary>
 
 <br>   
-
+<div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="420" valign="top">
@@ -99,12 +99,14 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 </td>
 </tr>
 </table>
+</div>
 
 <br>   
 
 
  &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery05/c9e3b7df.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp; iwc
 
+<div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td width="420" valign="top">
@@ -116,7 +118,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 </td>
 </tr>
 </table>
-
+</div>
 
 </details>
  </td>
