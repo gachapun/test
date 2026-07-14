@@ -14,7 +14,7 @@
     
 <div align="center">       <br> 
 <img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes&abbreviated=true&style=plastic" alt="views" width="100" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=94e2ff&label=starfish+collected&abbreviated=true&style=for-the-badge" alt="views" width="180" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />
     <br> <br>
     </div>
 <div align="center">
