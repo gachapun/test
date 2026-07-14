@@ -1,12 +1,13 @@
 
 
 
-<img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" width="22%"/>
+<img align="left" src="https://github.com/user-attachments/assets/8daeab28-188c-4e3f-a1a4-374ae690238e" width="22%"/>
 
-<img align="right" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" width="22%"/>
+<img align="right" src="https://github.com/user-attachments/assets/ac6cd953-c24c-47aa-bc5a-da4de91d5c4d" width="22%"/>
 
+
+    
 <div align="center">
-    <br>
 <img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfish&abbreviated=true&style=plastic" alt="views" />
     <br> <br>
     </div>
@@ -128,23 +129,8 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 </tr>
 </table>
 
-   </ul>
-      </details>
 
-  <hr />
-
-  <details>
-        <summary>
-        &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery05/f8ddbcab.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp;      
-          <b>gallery</b></summary>
-    <ul>
-          </li>
-          <br>
-        
- what
-        
-</ul>
-      </details>
+</details>
  </td>
 </tr>
 
@@ -153,8 +139,6 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
   <div align="right">
         <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="50" alt="atabook" /></a>
       </div>  
-
-
 
 
 
