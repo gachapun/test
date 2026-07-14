@@ -32,7 +32,7 @@
 <div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="500" valign="top">
+<td width="450" valign="top">
 <img align="left" src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="120"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"/>hey im sasha! i hang out in ponytown sometimes just to interact with people, so if you ever want to get to know me...
 <br>
 JUST TALK TO ME! no bites! just be aware i might be offtab so whisper, just in case?
