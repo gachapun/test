@@ -6,7 +6,6 @@
 <img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="21%">
 
 
-<img align="center" src="https://github.com/user-attachments/assets/744219c1-b70a-4d49-92f7-acbaca4a149b" width="420">
 <br><br>
 <img src="https://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2fhttps://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2f" width="33"  alt="icon" /> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" />
 
