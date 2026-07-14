@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2fhttps://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2f" width="40"  alt="icon" />       &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" />
+<img src="https://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2fhttps://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2f" width="33"  alt="icon" />       &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" />
 <div align="center">
   <img align="center"><img src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" alt="ok" width="40%" />  </p>
     </div>
