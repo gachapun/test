@@ -17,7 +17,7 @@
 
  <br> 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&duration=4985&pause=1000&color=57D8F7&center=true&width=435&lines=%22+Do+you+know+what+kind+of+fish+gets+fan-mail%3F+%22" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=16&duration=4985&pause=1000&color=57D8F7&center=true&width=525&lines=%22+Do+you+know+what+kind+of+fish+gets+fan-mail%3F+%22" alt="Typing SVG" /></a></div>
 <div align="center">
   <img align="center"><img src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" alt="ok" width="40%" />  </p>
     </div>
