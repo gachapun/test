@@ -11,9 +11,6 @@
 
 <img align="left" src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" width="230"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="260"/>
 <br><br>sasha/gigi<br><br>20yrs &nbsp;&nbsp;she/he<br><br>w2i most of the time<br>
-
-
- <br><br>
  
  <div align="center">
         <a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="24" alt="tiktok logo" /></a>
