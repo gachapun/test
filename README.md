@@ -13,7 +13,7 @@
 <br><br>sasha/gigi<br><br>20yrs &nbsp;&nbsp;she/he<br><br>w2i most of the time<br>
 
 
- <br>
+ <br><br>
  
  <div align="center">
         <a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="27" alt="tiktok logo" /></a>
