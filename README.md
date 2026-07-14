@@ -8,8 +8,8 @@
 
 
     
-<div align="center">      <br> <br> <br>
-<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfish&abbreviated=true&style=plastic" alt="views" />
+<div align="center">      <br> <br>
+<img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfishes collected&abbreviated=true&style=plastic" alt="views" />
     <br> <br>
     </div>
 <div align="center">
