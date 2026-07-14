@@ -21,9 +21,9 @@
   <img align="center"><img src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" alt="ok" width="40%" />  </p>
     </div>
   <div align="center">
-        <a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=plastic" height="30" alt="tiktok logo" /></a>
-        <a href="https://www.instagram.com/shafflez_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic" height="30" alt="insta logo" /></a>
-        <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="30" alt="twitter logo" /></a>
+        <a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=plastic" height="39" alt="tiktok logo" /></a>
+        <a href="https://www.instagram.com/shafflez_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic" height="39" alt="insta logo" /></a>
+        <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="39" alt="twitter logo" /></a>
       </div>
     
 ---
