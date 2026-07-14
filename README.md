@@ -12,20 +12,19 @@
 
 
     
-<div align="center">       <br> 
+<div align="center">       <br> <br>
 <img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=gachapun&color=94e2ff&label=starfish+collected&abbreviated=true&style=for-the-badge" alt="views" width="180" />&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery289/68f4ce05.gif?v=3fc8f5cd" width="20" alt="icon" />
-    <br> <br>
+    <br> 
     </div>
 <div align="center">
   <img align="center"><img src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" alt="ok" width="40%" />  </p>
     </div>
-  <div align="center">
+     <div align="center">
         <a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=plastic" height="39" alt="tiktok logo" /></a>
-        <a href="https://www.instagram.com/shafflez_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic" height="39" alt="insta logo" /></a>
         <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="39" alt="twitter logo" /></a>
       </div>
-    
+ 
 ---
 
 <details>
@@ -39,8 +38,6 @@
 <img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"><img align="left" src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="106"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"/>HEY im sasha! i hang out in ponytown sometimes just to interact with people, so if you ever want to get to know me...
 <br>
 JUST TALK TO ME! no bites! just be aware i might be offtab so whisper, just in case?
-
-
  
  &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; $$\color{#70d7ff}{\textsf{characters that describe me ????}}$$
   <br>
