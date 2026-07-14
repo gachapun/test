@@ -9,7 +9,7 @@
 <br><div align="center">
 <img src="https://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2fhttps://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2f" width="33"  alt="icon" /> &nbsp; <img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" /></div><br>
 
-<img align="left" src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" width="233"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="210"/>
+<img align="left" src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" width="233"/><img align="left" src="https://github.com/user-attachments/assets/c775de9d-0b6a-4468-a47d-fd95cbca9bda" height="210"/>
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp; sasha/gigi<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;she/he  20yrs ༄.° [bf ♡](https://www.tiktok.com/@noxynoc)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[best viewed on pc]()<br><br>
  
  <div align="center"><a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="26" alt="tiktok logo" /></a>
@@ -127,6 +127,5 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
   <div align="right">
         <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="60" alt="atabook" /></a>
       </div>  
-
 
 
