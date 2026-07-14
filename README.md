@@ -28,7 +28,7 @@
 <br>  
 
 
-<img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"><img align="left" src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="106"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"/>HEY im sasha! i hang out in ponytown sometimes just to interact with people :D
+<img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"><img align="left" src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="106"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"/>HEY im sasha! i hang out in ponytown sometimes just to interact with people :D<br><br>
 INT PLS! but just be aware i might be offtab so whisper, just in case?
 <br>
  &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; $$\color{#70d7ff}{\textsf{characters that describe me ????}}$$
