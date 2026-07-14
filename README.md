@@ -1,16 +1,14 @@
 
 
-<img align="left" src="https://github.com/user-attachments/assets/6f568923-9850-4c6c-bcaf-cc6babd29058" width="9%" >
+<img align="left" src="https://github.com/user-attachments/assets/9344b9ad-f653-4e7e-99e8-511922d7c6e6" width="20%" >
 
 
-<img align="left" src="https://github.com/user-attachments/assets/a15c50fd-8902-4b2a-9baf-f67fa641bde6" width="100" >
+<img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="20%">
 
-<img align="right" src="https://github.com/user-attachments/assets/6f568923-9850-4c6c-bcaf-cc6babd29058" width="9%">
-<img align="right" src="https://github.com/user-attachments/assets/4173a05d-bf94-4082-8070-4f750ade0aa5" width="100">
 
 
     
-<div align="center">
+<div align="center">      <br> <br>    <br> <br>
 <img src="https://komarev.com/ghpvc/?username=gachapun&color=00dbcd&label=starfish&abbreviated=true&style=plastic" alt="views" />
     <br> <br>
     </div>
@@ -142,6 +140,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
   <div align="right">
         <a href="https://gachapun.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/837a25ff-9464-4b4e-85c2-b20e0d912905" height="50" alt="atabook" /></a>
       </div>  
+
 
 
 
