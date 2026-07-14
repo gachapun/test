@@ -12,7 +12,7 @@
     <br> <br>
     </div>
 <div align="center">
-  <img align="center"><img src="https://github.com/user-attachments/assets/73894523-a3b8-4dd9-b25d-894ffcd8502b" alt="ok" width="46%" />  </p>
+  <img align="center"><img src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" alt="ok" width="40%" />  </p>
     </div>
   <div align="center">
         <a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=plastic" height="30" alt="tiktok logo" /></a>
