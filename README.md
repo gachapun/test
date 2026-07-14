@@ -8,13 +8,20 @@
 
 <br><br>
 <img src="https://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2fhttps://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2f" width="33"  alt="icon" /> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" />
-<div align="center">
-  <img align="center"><img src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" alt="ok" width="37%" />  </p>
-    </div>
-     <div align="center">
+
+<img align="left" src="https://github.com/user-attachments/assets/232c6e8b-4408-45c8-9699-cf5ce41f1b45" width="260"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" height="97"/>
+<br>sasha/gigi<br><br>20 yrs old<br><br>w2i most of the time<br>
+
+
+
+ <br><br>
+ 
+ <div align="center">
         <a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="39" alt="tiktok logo" /></a>
         <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="twitter logo" /></a>
       </div>
+
+ <br>
  
 ---
 
