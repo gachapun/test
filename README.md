@@ -9,7 +9,7 @@
 
 <br><br>
 <div align="center">
-<img width="390" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
+<img width="40%" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
 <br>
 
 
