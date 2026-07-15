@@ -64,10 +64,14 @@ HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br>
 </div>
 </div>
       
- &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [relatable characters ???](https://github.com/gachapun)
+<div align="center">
+  <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/gachapun">relatable characters ???</a>
+</div>
   <br>
  <div align="center">
-<img width="99" height="56" alt="stamp" src="https://github.com/user-attachments/assets/eb34b76e-d977-475a-a930-6d8193f099ab" /><img width="99" height="56" alt="stamp (1)" src="https://github.com/user-attachments/assets/fff1f3a4-2580-4a52-9a9f-8909af1ae29d" /><img width="99" height="56" alt="stamp (2)" src="https://github.com/user-attachments/assets/3128de3b-a4cc-4525-9054-c207c508e15a" /><img width="99" height="56" alt="stamp (3)" src="https://github.com/user-attachments/assets/00969ffd-4714-476a-abb5-0835866225c4" /> </div>
+<img width="90" alt="stamp" src="https://github.com/user-attachments/assets/eb34b76e-d977-475a-a930-6d8193f099ab" /><img width="90" alt="stamp (1)" src="https://github.com/user-attachments/assets/fff1f3a4-2580-4a52-9a9f-8909af1ae29d" /><img width="90" alt="stamp (2)" src="https://github.com/user-attachments/assets/3128de3b-a4cc-4525-9054-c207c508e15a" /><img width="90" alt="stamp (3)" src="https://github.com/user-attachments/assets/00969ffd-4714-476a-abb5-0835866225c4" /> </div>
          
 </div>
       </details>
@@ -100,9 +104,13 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 ---
 
 
-</div>
 
- &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [music i like !!!](https://github.com/gachapun)
+<div align="center">
+  <img src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" width="25" alt="icon" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/gachapun">music i like !!!</a>
+</div>
+<br>
 <p align="center">
 <a href="https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx?si=2883e62f063c4d75"><img src="https://i.scdn.co/image/ab67616d0000b27343c9784aec1d1ceb84e8383a" width="100"></a>
 &nbsp;
@@ -138,7 +146,11 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 <br>   
 
 
- &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery05/c9e3b7df.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />&nbsp;&nbsp; iwc
+<div align="center">
+  <img src="https://gifcity.carrd.co/assets/images/gallery05/c9e3b7df.gif?v=3fc8f5cd" width="20" height="20" alt="icon" />
+  &nbsp;&nbsp;
+  <b>iwc</b>
+</div>
 
 <div align="center">
 <table cellspacing="0" cellpadding="0">
