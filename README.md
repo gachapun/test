@@ -64,7 +64,7 @@ HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br>
 </div>
 </div>
       
- <br>&nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [relatable characters ???](https://github.com/gachapun)
+ &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [relatable characters ???](https://github.com/gachapun)
   <br>
  <div align="center">
 <img width="99" height="56" alt="stamp" src="https://github.com/user-attachments/assets/eb34b76e-d977-475a-a930-6d8193f099ab" /><img width="99" height="56" alt="stamp (1)" src="https://github.com/user-attachments/assets/fff1f3a4-2580-4a52-9a9f-8909af1ae29d" /><img width="99" height="56" alt="stamp (2)" src="https://github.com/user-attachments/assets/3128de3b-a4cc-4525-9054-c207c508e15a" /><img width="99" height="56" alt="stamp (3)" src="https://github.com/user-attachments/assets/00969ffd-4714-476a-abb5-0835866225c4" /> </div>
