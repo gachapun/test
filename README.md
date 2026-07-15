@@ -45,17 +45,13 @@ she/he 20yrs ༄.°&nbsp;&nbsp;
  <summary align="center">  
  &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;<b>about me
 </b></summary>
-<br>  
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="12%">
-<br>   
+<br> <div align="center"><img src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="90"></div>
 <div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="380" valign="top">
-          
+<td width="340" valign="top">
+
 HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br>INT PLS! but just be aware i might be offtab so whisper, just in case?
 </td>
 </tr>
