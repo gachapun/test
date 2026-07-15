@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-<img width="390" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
+<img width="350" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
 
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" /></div>
