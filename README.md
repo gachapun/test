@@ -25,7 +25,7 @@
 
 
 <details>
-      <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;    
 <b>about me
 </b></summary>
@@ -45,7 +45,7 @@ INT PLS! but just be aware i might be offtab so whisper, just in case?
   <hr />
 
   <details>
-        <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/16e693ff.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;    
           <b>interests</b></summary>
 
@@ -75,11 +75,11 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 
  &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [music i like !!!](https://github.com/gachapun)
 <p align="center">
-<a href="https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx?si=2883e62f063c4d75"><img src="https://i.scdn.co/image/ab67616d0000b27343c9784aec1d1ceb84e8383a" width="120"></a>
+<a href="https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx?si=2883e62f063c4d75"><img src="https://i.scdn.co/image/ab67616d0000b27343c9784aec1d1ceb84e8383a" width="100"></a>
 &nbsp;
-<a href="https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo?si=7e8df6a71a0442f9"><img src="https://i.scdn.co/image/ab67616d00001e02cd4a595ef20e19689e5f1122" width="120"></a>
+<a href="https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo?si=7e8df6a71a0442f9"><img src="https://i.scdn.co/image/ab67616d00001e02cd4a595ef20e19689e5f1122" width="100"></a>
 &nbsp;
-<a href="https://open.spotify.com/track/6G0XriJRNB2Ea1wKcBbvWh?si=9149dfbad683422c"><img src="https://f4.bcbits.com/img/a4222893935_10.jpg" width="120"></a>
+<a href="https://open.spotify.com/track/6G0XriJRNB2Ea1wKcBbvWh?si=9149dfbad683422c"><img src="https://f4.bcbits.com/img/a4222893935_10.jpg" width="100"></a>
 
 
 
@@ -88,7 +88,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
   <hr />
 
   <details>
-        <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery05/6bda5abd.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;            
           <b>before int</b></summary>
 
