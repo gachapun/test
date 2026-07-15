@@ -5,11 +5,12 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="21%">
 
-<div align="center">
-<img align="center" src=https://github.com/user-attachments/assets/6c42f7ab-9969-4058-bc19-17eb101e60e9" width="339"> </div>
 <br>
+<div align="center">
+<img width="400" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
 
-<div align="left"><img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" /></div>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" /></div>
 <br>
 
 
