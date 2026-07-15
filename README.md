@@ -20,7 +20,10 @@
       </div>&nbsp;&nbsp;
 
 <div align="center">
-<img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/694ff79efccf8a00e5d11a0a679045d1/c8381bb53f84d080-59/s1280x1920/705eafb736e44ef79b640c4e9d65f73c089c5ea9.pnj" /> </div>
+<img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/87d818dc612fe4589ffd03cc428a7894/58006214b1c2dc17-4a/s2048x3072/1b9b1c89b3ae34fbd01031014fe8973de8ff42d7.pnj" /> </div><br>
+
+
+
 
 <details>
       <summary>
