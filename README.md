@@ -11,7 +11,7 @@
 <br>
 
 
-<img align="left" src="https://github.com/user-attachments/assets/4ac35c13-25b5-4070-a4bf-0b94fd1458b8" width="246"/><img align="left" src="https://github.com/user-attachments/assets/c775de9d-0b6a-4468-a47d-fd95cbca9bda" height="226"/><br><br>
+<img align="left" src="https://github.com/user-attachments/assets/99509834-1aed-4ad3-ae58-3bbad9ad95e0" width="260"/><img align="left" src="https://github.com/user-attachments/assets/c775de9d-0b6a-4468-a47d-fd95cbca9bda" height="260"/><br>
 <img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp; sasha/gigi<br><br>she/he  20yrs ༄.° [bf ♡](https://www.tiktok.com/@noxynoc)<br><br>&nbsp;&nbsp;[best viewed on pc](https://github.com/gachapun)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery05/81cba2f4.gif?v=3fc8f5cd" width="24"  alt="icon" />
  
  <div align="left"><a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="19" alt="tiktok logo" /></a>&nbsp;
