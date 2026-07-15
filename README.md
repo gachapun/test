@@ -5,12 +5,12 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="21%">
 
-
-<img align="center" src="https://64.media.tumblr.com/43936543ce1e754656b40f5128d924ef/62ba2f279f5c3acd-1f/s500x750/b01a7d490f41110ea18b55b62b78c07c1a455b24.pnj" width="425">
+<div align="center">
+<img align="center" src="https://64.media.tumblr.com/43936543ce1e754656b40f5128d924ef/62ba2f279f5c3acd-1f/s500x750/b01a7d490f41110ea18b55b62b78c07c1a455b24.pnj" width="430"> </div>
 
 
 <br>
-<br><div align="center">
+<div align="center">
 <img src="https://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2fhttps://biscuit.crd.co/assets/images/gallery42/c9b92c68.gif?v=edffcd2f" width="33"  alt="icon" /> &nbsp; <img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" /></div>
 
 <img align="left" src="https://github.com/user-attachments/assets/a04149ca-db65-4c4f-b685-bd3a5a6c837d" width="233"/><img align="left" src="https://github.com/user-attachments/assets/c775de9d-0b6a-4468-a47d-fd95cbca9bda" height="210"/>
