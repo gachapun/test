@@ -13,7 +13,7 @@
 <br>
 
 
-<img align="left" src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="233"/><img align="left" src="https://github.com/user-attachments/assets/c775de9d-0b6a-4468-a47d-fd95cbca9bda" height="260"/><br>
+<img align="left" src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="233"/><img align="left" src="https://github.com/user-attachments/assets/c775de9d-0b6a-4468-a47d-fd95cbca9bda" height="260"/><br><br>
 &nbsp;&nbsp;&nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp; sasha/gigi<br><br>she/he  20yrs ༄.° [bf ♡](https://www.tiktok.com/@noxynoc)<img src="https://gifcity.carrd.co/assets/images/gallery05/81cba2f4.gif?v=3fc8f5cd" width="20"  alt="icon" /><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my [新book](https://gachapun.atabook.org/)<br>
  <div align="left">&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@shafflez" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="19" alt="tiktok logo" /></a>&nbsp;
         <a href="https://x.com/shafflez_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="twitter logo" /></a>
