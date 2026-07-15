@@ -46,7 +46,7 @@ she/he 20yrs ༄.°&nbsp;&nbsp;
  &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;<b>about me
 </b></summary>
 
-<br> <div align="center"><img src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="90"></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="90"></div>
 <div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
