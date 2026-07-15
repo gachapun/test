@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="21%">
 
-<br><br><br><br>
+<br><br><br>
 <div align="center">
 <img width="350" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
 <br>
