@@ -9,7 +9,7 @@
 
 <br><br>
 <div align="center">
-<img width="396" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
+<img width="390" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
 <br>
 
 
@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="240"/>
+<img src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="230"/>
 <br><br>
 <img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20" alt="icon" />
 &nbsp;&nbsp;
