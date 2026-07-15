@@ -67,7 +67,7 @@ HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br>
 </div>
   <br>
  <div align="center">
-<img width="90" alt="stamp" src="https://github.com/user-attachments/assets/eb34b76e-d977-475a-a930-6d8193f099ab" /><img width="90" alt="stamp (1)" src="https://github.com/user-attachments/assets/fff1f3a4-2580-4a52-9a9f-8909af1ae29d" /><img width="90" alt="stamp (2)" src="https://github.com/user-attachments/assets/3128de3b-a4cc-4525-9054-c207c508e15a" /><img width="90" alt="stamp (3)" src="https://github.com/user-attachments/assets/00969ffd-4714-476a-abb5-0835866225c4" /> </div>
+<img width="70" alt="stamp" src="https://github.com/user-attachments/assets/eb34b76e-d977-475a-a930-6d8193f099ab" /><img width="70" alt="stamp (1)" src="https://github.com/user-attachments/assets/fff1f3a4-2580-4a52-9a9f-8909af1ae29d" /><img width="70" alt="stamp (2)" src="https://github.com/user-attachments/assets/3128de3b-a4cc-4525-9054-c207c508e15a" /><img width="70" alt="stamp (3)" src="https://github.com/user-attachments/assets/00969ffd-4714-476a-abb5-0835866225c4" /> </div>
          
 </div>
       </details>
@@ -82,15 +82,15 @@ HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br>
 <br>  
 
 <div align="center">
-   <img src="https://64.media.tumblr.com/b69a30c658a73453fcacbf2d14db753d/27babd1e837c7407-b8/s100x200/334c755944778c35c74a496cb86360b1569cb11e.png" width="120" alt="stamp" />
-        <img src="https://64.media.tumblr.com/47ab44d90d7f2d2130c66dfe43a5afbb/079067f589d53d76-7d/s100x200/5cdc26580c46b0a88db333b78e1be07343e196a2.png" width="120" alt="stamp" />
-        <img src="https://64.media.tumblr.com/f5ac3e63ec42d9b42a61ef6be6219f57/51513407471ed0ec-08/s250x400/65e918d9320e4ad25f5500dae8f90aeef2d30f94.gifv" width="120" alt="stamp" />
+   <img src="https://64.media.tumblr.com/b69a30c658a73453fcacbf2d14db753d/27babd1e837c7407-b8/s100x200/334c755944778c35c74a496cb86360b1569cb11e.png" width="80" alt="stamp" />
+        <img src="https://64.media.tumblr.com/47ab44d90d7f2d2130c66dfe43a5afbb/079067f589d53d76-7d/s100x200/5cdc26580c46b0a88db333b78e1be07343e196a2.png" width="80" alt="stamp" />
+        <img src="https://64.media.tumblr.com/f5ac3e63ec42d9b42a61ef6be6219f57/51513407471ed0ec-08/s250x400/65e918d9320e4ad25f5500dae8f90aeef2d30f94.gifv" width="80" alt="stamp" />
 </div>
 
 <div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="380" valign="top">
+<td width="340" valign="top">
 dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fear and hunger, murder drones, tadc, resident evil, dol, project hail mary, iron lung, sonic, final space, inside job, splatoon, pokemon, starters, zelda, kirby, league of legends</p>
 </td>
 </tr>
@@ -129,7 +129,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 <div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="380" valign="top">
+<td width="340" valign="top">
           
  * im an adult, *please keep that in mind!*
  * i dunno much about any controversy in this game so keep that in mind just incase im seen interacting with someone that has a bad history
@@ -151,7 +151,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 <div align="center">
 <table cellspacing="0" cellpadding="0">
 <tr>
-<td width="380" valign="top">
+<td width="340" valign="top">
     
  * if you treat people's ignorance as a reason to ridicule them instead of an opportunity to educate them calmly
  * assholes in general, i dislike public harassing 
