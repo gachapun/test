@@ -6,11 +6,8 @@
 <img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="21%">
 
 <div align="center">
-<img align="center" src=https://github.com/user-attachments/assets/cd1f326e-4a68-4ed8-a6dc-a0a8307c3be8" width="445"> </div>
+<img align="center" src=https://github.com/user-attachments/assets/6c42f7ab-9969-4058-bc19-17eb101e60e9" width="339"> </div>
 <br>
-
-
-
 
 <div align="left"><img src="https://komarev.com/ghpvc/?username=gachapun&color=00abd1&label=&abbreviated=true&style=for-the-badge" alt="views" width="50" /></div>
 <br>
