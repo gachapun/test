@@ -20,7 +20,7 @@
       </div>&nbsp;&nbsp;
 
 <div align="center">
-<img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/87d818dc612fe4589ffd03cc428a7894/58006214b1c2dc17-4a/s2048x3072/1b9b1c89b3ae34fbd01031014fe8973de8ff42d7.pnj" /> </div><br>
+<img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/753e20b7c7474bad8202fe2fe4cb42e6/58006214b1c2dc17-83/s2048x3072/54d48b96b0b7d423bb6b59c88c63fef6812321fe.pnj" /> </div><br>
 
 
 
@@ -130,7 +130,8 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
  </td>
 </tr>
 
----
+<div align="center">
+<img width="449" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/753e20b7c7474bad8202fe2fe4cb42e6/58006214b1c2dc17-83/s2048x3072/54d48b96b0b7d423bb6b59c88c63fef6812321fe.pnj" /> </div><br>
 
 
   <div align="right">
