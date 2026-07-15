@@ -48,9 +48,19 @@ she/he 20yrs ༄.°&nbsp;&nbsp;
 <br>  
 
 
-<img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" width="1%"><img align="left" src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="12%"/><img align="left" src="https://github.com/user-attachments/assets/c7631da8-bef4-4f97-8262-49081ae47381" width="1%"/>HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br><br>
+<img align="left" src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="8%"/>
+<div align="left">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td width="38%" valign="top">
+HEY im sasha! i hang out in ponytown sometimes just to talk with anypony! :D<br><br>
 INT PLS! but just be aware i might be offtab so whisper, just in case?
 <br>
+</td>
+</tr>
+</table>
+</div>
+      
  <br>&nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />&nbsp;&nbsp; [relatable characters ???](https://github.com/gachapun)
   <br>
  <div align="center">
