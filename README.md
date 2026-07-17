@@ -1,15 +1,14 @@
 
 
 
+<img align="left" src="https://github.com/user-attachments/assets/aba52696-617f-4bdf-a2a5-d51200576624" width="16%" >
 
-<img align="left" src="https://github.com/user-attachments/assets/9344b9ad-f653-4e7e-99e8-511922d7c6e6" width="16%" >
 
-
-<img align="right" src="https://github.com/user-attachments/assets/c8f60cc9-8a85-41fa-9324-8046ef5848df" width="16%">
+<img align="right" src="https://github.com/user-attachments/assets/0e4e2879-18ae-4c33-98fd-ddd97469e33f" width="16%">
 
 <br><br>
 <div align="center">
-<img width="46%" alt="image-ezgif com-effects" src="https://github.com/user-attachments/assets/9310d4c7-be03-4e09-8e93-f830b7c73f64" /> </div>
+<img width="46%" alt="image-ezgif com-effects" src="https://64.media.tumblr.com/adbe6b058bf6e0c2da92ffeacda9dabc/da5110e79d297768-9d/s2048x3072/92a5c45cfae6a0771edaa2b48ad93f1e7d7e68b3.pnj" /> </div>
 <br>
 
 
@@ -17,20 +16,21 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8eb4945b-2f83-4723-b9ee-ecbece99d8b7" width="30%"/>
+<img src="https://ssb.wiki.gallery/images/4/4b/SSBU_spirit_Marx_%28True_Form%29.png" width="40%"/>
 <br><br>
-<img src="https://gifcity.carrd.co/assets/images/gallery140/8976b2e5.gif?v=3fc8f5cd" width="20" alt="icon" />
-&nbsp;&nbsp;
+<img src="https://gifcity.carrd.co/assets/images/gallery294/58000a7d.gif?v=3fc8f5cd" width="23" alt="icon" />
+&nbsp;
 sasha/gigi
 
 <br>
 
-she/he 20yrs ༄.°&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@noxynoc">♡</a>&nbsp;&nbsp;
-<img src="https://gifcity.carrd.co/assets/images/gallery05/81cba2f4.gif?v=3fc8f5cd" width="20" alt="icon" />
+she/he 20yrs ✦ ⁺ &nbsp;
+<a href="https://www.tiktok.com/@noxynoc">♡</a>&nbsp;<br>
+<img src="https://gifcity.carrd.co/assets/images/gallery290/b19e258f.gif?v=3fc8f5cd" width="20" alt="icon" />
 &nbsp;
 <a href="https://gachapun.atabook.org/">新book</a>
 
+<br>
 <a href="https://www.tiktok.com/@shafflez"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" height="23" alt="TikTok" /></a>&nbsp;<a href="https://x.com/shafflez_"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="Twitter" /></a>
 
 </div>
@@ -43,7 +43,7 @@ she/he 20yrs ༄.°&nbsp;&nbsp;
 
 <details>
  <summary align="center">  
- &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/e46a9679.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;<b>about me
+ &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery290/3f53ea42.gif?v=3fc8f5cd" width="20"  alt="icon" />&nbsp;&nbsp;<b>about me
 </b></summary><br>
 
 <div align="center"><img src="https://github.com/user-attachments/assets/64f9cbdd-0579-484c-8c56-2d609aa10946" width="90"></div>
@@ -62,7 +62,7 @@ INT PLS! but just be aware i might be offtab so whisper, just in case?
 </div>
       
 <div align="center">
-  <img src="https://gifcity.carrd.co/assets/images/gallery97/feee5313.gif?v=3fc8f5cd" width="25" alt="icon" />
+  <img src="https://gifcity.carrd.co/assets/images/gallery74/e29c75d4.gif?v=3fc8f5cd" width="25" alt="icon" />
   &nbsp;&nbsp;
   <a href="https://github.com/gachapun">relatable characters ???</a>
 </div>
@@ -76,7 +76,7 @@ INT PLS! but just be aware i might be offtab so whisper, just in case?
 
   <details>
  <summary align="center">
-       &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery150/16e693ff.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;    
+       &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery13/457fe0c3.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;    
           <b>interests</b></summary>
 
     
@@ -103,7 +103,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 
 
 <div align="center">
-  <img src="https://gifcity.carrd.co/assets/images/gallery97/a58d6d18.gif?v=3fc8f5cd" width="25" alt="icon" />
+  <img src="https://gifcity.carrd.co/assets/images/gallery13/b09ca980.gif?v=3fc8f5cd" width="25" alt="icon" />
   &nbsp;&nbsp;
   <a href="https://github.com/gachapun">music i like !!!</a>
 </div>
@@ -123,7 +123,7 @@ dandys world, gravity falls, lego monkie kid, deltarune, deadlock, cyberpunk, fe
 
   <details>
  <summary align="center">
-    &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery05/6bda5abd.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;            
+    &nbsp;&nbsp; <img src="https://gifcity.carrd.co/assets/images/gallery13/6716e245.gif?v=3fc8f5cd" width="20" alt="icon" />&nbsp;&nbsp;            
           <b>before int</b></summary>
 
 <br>   
