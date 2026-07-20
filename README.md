@@ -25,7 +25,7 @@ sasha/gigi
 <br>
 
 she/he 20yrs ✦ ⁺ &nbsp;
-<a href="https://www.tiktok.com/@noxynoc">♡</a>&nbsp;<br>
+<a href="https://www.tiktok.com/@noxynoc">bf ♡</a>&nbsp;<br>
 <img src="https://gifcity.carrd.co/assets/images/gallery290/b19e258f.gif?v=3fc8f5cd" width="20" alt="icon" />
 &nbsp;
 <a href="https://gachapun.atabook.org/">新book</a>
